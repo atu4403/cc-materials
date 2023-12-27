@@ -21,7 +21,7 @@ Alternatively, Cookiecutter can also be installed using other package managers l
    Execute the following command to generate a new project from the `cc-materials` template:
 
    ```bash
-   cookiecutter gh:your-github-username/cc-materials
+   cookiecutter gh:atu4403/cc-materials
    ```
 
    Respond to prompts such as `directory_name` as required.

@@ -19,7 +19,7 @@ pip install cookiecutter
    以下のコマンドを実行し、`cc-materials` テンプレートから新しいプロジェクトを生成します。
 
    ```bash
-   cookiecutter gh:your-github-username/cc-materials
+   cookiecutter gh:atu4403/cc-materials
    ```
 
    必要に応じて、`directory_name` などのプロンプトに回答します。
